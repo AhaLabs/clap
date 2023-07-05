@@ -19,6 +19,7 @@ mod groups;
 mod help;
 mod issues;
 mod macros;
+mod mistyped_subcommand;
 mod naming;
 mod nested_subcommands;
 mod non_literal_attributes;
